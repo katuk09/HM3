@@ -1,0 +1,15 @@
+F:\GeekBrains\GitC#Sem\Homeworks\HM2\obj\Debug\net6.0\HM2.csproj.AssemblyReference.cache
+F:\GeekBrains\GitC#Sem\Homeworks\HM2\obj\Debug\net6.0\HM2.GeneratedMSBuildEditorConfig.editorconfig
+F:\GeekBrains\GitC#Sem\Homeworks\HM2\obj\Debug\net6.0\HM2.AssemblyInfoInputs.cache
+F:\GeekBrains\GitC#Sem\Homeworks\HM2\obj\Debug\net6.0\HM2.AssemblyInfo.cs
+F:\GeekBrains\GitC#Sem\Homeworks\HM2\obj\Debug\net6.0\HM2.csproj.CoreCompileInputs.cache
+F:\GeekBrains\GitC#Sem\Homeworks\HM2\bin\Debug\net6.0\HM2.exe
+F:\GeekBrains\GitC#Sem\Homeworks\HM2\bin\Debug\net6.0\HM2.deps.json
+F:\GeekBrains\GitC#Sem\Homeworks\HM2\bin\Debug\net6.0\HM2.runtimeconfig.json
+F:\GeekBrains\GitC#Sem\Homeworks\HM2\bin\Debug\net6.0\HM2.dll
+F:\GeekBrains\GitC#Sem\Homeworks\HM2\bin\Debug\net6.0\HM2.pdb
+F:\GeekBrains\GitC#Sem\Homeworks\HM2\obj\Debug\net6.0\HM2.dll
+F:\GeekBrains\GitC#Sem\Homeworks\HM2\obj\Debug\net6.0\refint\HM2.dll
+F:\GeekBrains\GitC#Sem\Homeworks\HM2\obj\Debug\net6.0\HM2.pdb
+F:\GeekBrains\GitC#Sem\Homeworks\HM2\obj\Debug\net6.0\HM2.genruntimeconfig.cache
+F:\GeekBrains\GitC#Sem\Homeworks\HM2\obj\Debug\net6.0\ref\HM2.dll
